@@ -1,0 +1,145 @@
+Job Title Clean,Skill,Skill Type,Bucket
+Senior Data Analyst,Expert SQL,Required,Technical
+Senior Data Analyst,BI tools & data visualization,Required,Technical
+Senior Data Analyst,"product analytics tools (Amplitude, Heap, Mixpanel)",Required,Technical
+Senior Data Analyst,Python/JavaScript/R or notebooks,Required,Technical
+Senior Data Analyst,"A/B testing, incrementality, attribution",Required,Technical
+Marketing/Advertising Analytics Consultant,Adobe Customer Journey Analytics,Required,Technical
+Marketing/Advertising Analytics Consultant,"Excel, SQL, Tableau",Required,Technical
+Marketing/Advertising Analytics Consultant,"Google Analytics, DV360, Ads Data Hub, Adobe Analytics, Salesforce/SFMC",Required,Technical
+Marketing/Advertising Analytics Consultant,"Datorama, Data Studio, Looker",Required,Technical
+Marketing/Advertising Analytics Consultant,A/B testing/experimentation,Required,Technical
+Business Intelligence Engineer,"Redshift, Oracle, NoSQL",Required,Technical
+Business Intelligence Engineer,"SQL, ETL",Required,Technical
+Business Intelligence Engineer,Tableau/QuickSight,Required,Technical
+Business Intelligence Engineer,"R, SAS, Matlab",Required,Technical
+Business Intelligence Engineer,Python scripting,Required,Technical
+Business Intelligence Engineer,data modeling & warehousing,Required,Technical
+Business Intelligence Researcher,Python (or similar) for automation,Required,Technical
+Business Intelligence Researcher,SQL,Required,Technical
+Business Intelligence Researcher,Linux,Required,Technical
+Business Intelligence Researcher,ETL pipelining/database concepts,Required,Technical
+AI and Data Science Engineer II,Exploratory data analysis,Required,Technical
+AI and Data Science Engineer II,predictive modeling,Required,Technical
+AI and Data Science Engineer II,"clustering, sampling, feature transformation",Required,Technical
+AI and Data Science Engineer II,"boosted trees, logistic regression, classification, unsupervised models, LLMs, experimental design",Required,Technical
+"Forward Deployed Engineer, Microsoft AI & Data",GenAI/LLM solution building,Required,Technical
+"Forward Deployed Engineer, Microsoft AI & Data",Azure AI Foundry,Required,Technical
+"Forward Deployed Engineer, Microsoft AI & Data","production code (testing, CI/CD, logging, versioning)",Required,Technical
+"Forward Deployed Engineer, Microsoft AI & Data",leading project workstreams,Required,Business Acumen
+Analytics and Insights Engineer III,"Tableau, Datorama, Data Studio, Looker (dashboards/visualization)",Required,Technical
+Analytics and Insights Engineer III,"Google Analytics, DV360, Ads Data Hub, Adobe Analytics, Salesforce/SFMC",Required,Technical
+Analytics and Insights Engineer III,"Excel, SQL",Required,Technical
+Growth Consultant,Structured/hypothesis-led problem solving,Required,Technical
+Growth Consultant,"business case development, financial modeling, investment analysis",Required,Technical
+Growth Consultant,concept testing/experimentation,Required,Business Acumen
+Growth Consultant,data-to-storytelling synthesis,Required,Business Acumen
+Management Consultant,Translating strategy into implementation plans/operating models,Required,Technical
+Management Consultant,stakeholder management,Required,Business Acumen
+Management Consultant,ROI/value tracking,Required,Business Acumen
+Management Consultant,cost reduction & efficiency execution,Required,Business Acumen
+Management Consultant,client-ready executive materials,Required,Business Acumen
+AI & Data Decision Science Consultant,"Python, R, or SQL",Required,Technical
+AI & Data Decision Science Consultant,"ML frameworks (TensorFlow, PyTorch, scikit-learn)",Required,Technical
+AI & Data Decision Science Consultant,"AI-native/cloud platforms (OpenAI, Anthropic, AWS, Azure, GCP)",Required,Technical
+AI & Data Decision Science Consultant,"big data (Hadoop, Spark)",Required,Technical
+AI & Data Decision Science Consultant,"data visualization (Tableau, Power BI)",Required,Technical
+"Strategy Manager, Technology & AI-Native Companies",Market/competitive analysis,Required,Business Acumen
+"Strategy Manager, Technology & AI-Native Companies",market sizing & financial scenario modeling,Required,Technical
+"Strategy Manager, Technology & AI-Native Companies",business case development,Required,Business Acumen
+"Strategy Manager, Technology & AI-Native Companies",client relationship management,Required,Business Acumen
+"Strategy Manager, Technology & AI-Native Companies",workstream leadership end-to-end,Required,Business Acumen
+AI-First Transformation Strategy Consultant,AI-native workflow redesign,Required,Business Acumen
+AI-First Transformation Strategy Consultant,enterprise operating model architecture,Required,Technical
+AI-First Transformation Strategy Consultant,value creation analysis/benchmarking,Required,Business Acumen
+AI-First Transformation Strategy Consultant,technology roadmap & experimentation strategy,Required,Business Acumen
+Associate Data Scientist 2027,"Python, SQL, R",Required,Technical
+Associate Data Scientist 2027,predictive/prescriptive modeling,Required,Technical
+Associate Data Scientist 2027,statistical methods,Required,Technical
+Associate Data Scientist 2027,ML,Required,Technical
+Associate Data Scientist 2027,GenAI and agentic AI workflows,Required,Technical
+Associate Data Scientist 2027,"data prep/cleansing (structured, semi-structured, unstructured)",Required,Technical
+Advisory Data Scientist,"SQL (PostgreSQL, Presto/Trino)",Required,Technical
+Advisory Data Scientist,"Python (pandas, NumPy, SciPy)",Required,Technical
+Advisory Data Scientist,"analytical data modeling (dimensional models, semantic layers)",Required,Technical
+Advisory Data Scientist,production analytical pipelines (Airflow or similar),Required,Technical
+Advisory Data Scientist,"BI/visualization tools (Superset, Cognos Analytics, Tableau)",Required,Technical
+Advisory Data Scientist,metric standardization,Required,Technical
+Advisory Data Scientist,hypothesis testing/EDA,Required,Technical
+"Consultant, Data & AI Engineer","SQL, Python",Required,Technical
+"Consultant, Data & AI Engineer","dbt, Spark, or Snowpark",Required,Technical
+"Consultant, Data & AI Engineer",ETL/ELT pipelines,Required,Technical
+"Consultant, Data & AI Engineer",Snowflake (or Redshift/BigQuery/Databricks),Required,Technical
+"Consultant, Data & AI Engineer","LLM app building (RAG, vector stores, embeddings, LangChain/LlamaIndex)",Required,Technical
+"Consultant, Data & AI Engineer",ML fundamentals,Required,Technical
+"Consultant, Data & AI Engineer",cloud platforms (AWS/Azure/GCP),Required,Technical
+"Consultant, Data & AI Engineer",Git/CI/CD,Required,Technical
+"Reporting Analyst, Entry Level 2027",Microsoft Excel,Required,Technical
+"Reporting Analyst, Entry Level 2027",large dataset handling with data quality focus,Required,Technical
+"Reporting Analyst, Entry Level 2027",GHG accounting methodologies/data collection & validation,Required,Technical
+Senior Data Analyst,AI-accelerated analysis/workflows,Preferred,Technical
+Senior Data Analyst,"experience across e-commerce, marketplaces, B2B SaaS, martech, agencies, or social platforms",Preferred,Business Acumen
+Marketing/Advertising Analytics Consultant,Marketing mix modeling / attribution,Preferred,Technical
+Marketing/Advertising Analytics Consultant,audience segmentation,Preferred,Business Acumen
+Marketing/Advertising Analytics Consultant,tagging strategy,Preferred,Business Acumen
+Marketing/Advertising Analytics Consultant,measurement & testing plan design,Preferred,Business Acumen
+Marketing/Advertising Analytics Consultant,strong executive-facing storytelling,Preferred,Business Acumen
+Business Intelligence Engineer,"AWS (EC2, DynamoDB, S3, Redshift)",Preferred,Technical
+Business Intelligence Engineer,large-scale complex dataset/data mining experience,Preferred,Technical
+Business Intelligence Researcher,Deep interest in trading/global markets,Preferred,Business Acumen
+Business Intelligence Researcher,comfort with ambiguity,Preferred,Soft Skills
+Business Intelligence Researcher,cross-team communication (technical <-> non-technical),Preferred,Soft Skills
+AI and Data Science Engineer II,ETL on large marketing datasets,Preferred,Technical
+AI and Data Science Engineer II,adtech/martech data experience,Preferred,Technical
+AI and Data Science Engineer II,presenting to non-technical audiences,Preferred,Business Acumen
+AI and Data Science Engineer II,deep learning or reinforcement learning,Preferred,Technical
+"Forward Deployed Engineer, Microsoft AI & Data",Cloud (AWS/Azure/GCP),Preferred,Technical
+"Forward Deployed Engineer, Microsoft AI & Data","Spark, Airflow/dbt, streaming, data modeling",Preferred,Technical
+"Forward Deployed Engineer, Microsoft AI & Data","MLOps/LLMOps (evaluation, monitoring, prompt management)",Preferred,Technical
+"Forward Deployed Engineer, Microsoft AI & Data",API/microservice integration,Preferred,Technical
+"Forward Deployed Engineer, Microsoft AI & Data",onshore/offshore team experience,Preferred,Soft Skills
+Analytics and Insights Engineer III,Analytics/modeling/tagging strategy definition,Preferred,Technical
+Analytics and Insights Engineer III,measurement & testing plan design,Preferred,Business Acumen
+Analytics and Insights Engineer III,digital analytics platforms & tag management,Preferred,Technical
+Analytics and Insights Engineer III,managing project timelines across workstreams,Preferred,Business Acumen
+Analytics and Insights Engineer III,exec/client-facing presentation,Preferred,Business Acumen
+Growth Consultant,Client-facing consulting delivery experience,Preferred,Business Acumen
+Growth Consultant,customer research/experimentation exposure,Preferred,Business Acumen
+Growth Consultant,"CMT (Communications, Media, Technology) industry experience",Preferred,Soft Skills
+Growth Consultant,MBA or innovation program experience,Preferred,Education/Degree Mention
+Growth Consultant,understanding of AI/GenAI applications,Preferred,Technical
+Management Consultant,MBA or graduate degree,Preferred,Education/Degree Mention
+Management Consultant,GenAI/ML/AI-platform application experience,Preferred,Technical
+Management Consultant,"Power BI, Tableau, Alteryx, Adobe Analytics, Google Analytics",Preferred,Technical
+Management Consultant,familiarity with LLM tooling/AI platform strategy,Preferred,Technical
+AI & Data Decision Science Consultant,"Agent-based modeling, reinforcement learning, autonomous systems",Preferred,Technical
+AI & Data Decision Science Consultant,program management/communication skills,Preferred,Soft Skills
+AI & Data Decision Science Consultant,"Master's in Data Science, CS, Statistics, or related field",Preferred,Education/Degree Mention
+"Strategy Manager, Technology & AI-Native Companies",MBA or graduate degree,Preferred,Education/Degree Mention
+"Strategy Manager, Technology & AI-Native Companies",hands-on GenAI/ML/AI-platform experience,Preferred,Technical
+"Strategy Manager, Technology & AI-Native Companies","Power BI, Tableau, Alteryx, Adobe Analytics, Google Analytics",Preferred,Technical
+"Strategy Manager, Technology & AI-Native Companies",familiarity with LLM tooling/AI platform strategy,Preferred,Technical
+AI-First Transformation Strategy Consultant,Strategy/transformation/operations background,Preferred,Business Acumen
+AI-First Transformation Strategy Consultant,technology/product/analytics background,Preferred,Soft Skills
+AI-First Transformation Strategy Consultant,finance/value creation/operating model design,Preferred,Technical
+AI-First Transformation Strategy Consultant,AI/automation/workflow modernization exposure,Preferred,Soft Skills
+Associate Data Scientist 2027,"LLMs, embeddings, vector databases, RAG",Preferred,Technical
+Associate Data Scientist 2027,"orchestration frameworks (LangChain, LangGraph, LlamaIndex, Semantic Kernel, AutoGen, MCP)",Preferred,Technical
+Associate Data Scientist 2027,"Git, containers, APIs, CI/CD, MLOps/LLMOps",Preferred,Technical
+Associate Data Scientist 2027,"cloud platforms (AWS, Azure, GCP)",Preferred,Technical
+Advisory Data Scientist,Lakehouse architectures (IBM watsonx.data),Preferred,Technical
+Advisory Data Scientist,"ML workflow exposure (feature engineering, model evaluation, deployment)",Preferred,Technical
+Advisory Data Scientist,"data governance (lineage, contracts, access controls)",Preferred,Technical
+Advisory Data Scientist,streaming/real-time analytics (Kafka),Preferred,Technical
+Advisory Data Scientist,quantum computing interest,Preferred,Business Acumen
+"Consultant, Data & AI Engineer","Snowflake Cortex (LLM functions, Search, Analyst, Agents)",Preferred,Technical
+"Consultant, Data & AI Engineer",agentic/multi-step systems (MCP integrations),Preferred,Technical
+"Consultant, Data & AI Engineer",LLM evaluation/observability/tracing,Preferred,Technical
+"Consultant, Data & AI Engineer","ingestion tools (Fivetran, Matillion, Openflow/NiFi)",Preferred,Technical
+"Consultant, Data & AI Engineer","AI coding tools (Claude Code, Copilot, Cursor)",Preferred,Technical
+"Consultant, Data & AI Engineer","industry exposure (healthcare, financial services, supply chain, retail/CPG)",Preferred,Business Acumen
+"Consultant, Data & AI Engineer",Scala/JavaScript,Preferred,Technical
+"Reporting Analyst, Entry Level 2027","Data visualization/analytics tools (Envizi, Power BI, Tableau, Python, SQL)",Preferred,Technical
+"Reporting Analyst, Entry Level 2027",AI/automation tool familiarity,Preferred,Soft Skills
+"Reporting Analyst, Entry Level 2027","sustainability disclosure frameworks (GRI, CDP)",Preferred,Business Acumen
+"Reporting Analyst, Entry Level 2027",market research/benchmarking experience,Preferred,Business Acumen
