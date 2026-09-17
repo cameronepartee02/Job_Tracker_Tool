@@ -1,0 +1,191 @@
+Company,Skill,Skill Category,Skill Type,Frequency,Companies Requesting (Breadth),Company Posting Count,Frequency % of Company Postings,Category Postings Count,Category % of Company Postings
+Accenture,Adobe Analytics,Marketing Analytics Stack,Preferred,2,2,4,50.0,3.0,75.0
+Accenture,Alteryx,BI & Visualization Tools,Preferred,2,1,4,50.0,3.0,75.0
+Accenture,Google Analytics,Marketing Analytics Stack,Preferred,2,2,4,50.0,3.0,75.0
+Accenture,MBA or graduate degree,Credentials & Background,Preferred,2,1,4,50.0,4.0,100.0
+Accenture,Power BI,BI & Visualization Tools,Preferred,2,1,4,50.0,3.0,75.0
+Accenture,Tableau,BI & Visualization Tools,Preferred,2,2,4,50.0,3.0,75.0
+Accenture,business case development,Business Case & Strategy Framing,Required,2,1,4,50.0,4.0,100.0
+Accenture,familiarity with LLM tooling/AI platform strategy,AI/GenAI Strategy & Application,Preferred,2,1,4,50.0,4.0,100.0
+Accenture,"AI-native/cloud platforms (OpenAI, Anthropic, AWS, Azure, GCP)",Cloud & DevOps,Required,1,1,4,25.0,1.0,25.0
+Accenture,Agent-based modeling,Statistical & ML Modeling,Preferred,1,1,4,25.0,3.0,75.0
+Accenture,"CMT (Communications, Media, Technology) industry experience",Credentials & Background,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,CS,Credentials & Background,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,Client-facing consulting delivery experience,Executive & Client Communication,Preferred,1,1,4,25.0,3.0,75.0
+Accenture,GenAI/ML/AI-platform application experience,AI/GenAI Strategy & Application,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,MBA or innovation program experience,Credentials & Background,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,"ML frameworks (TensorFlow, PyTorch, scikit-learn)",Statistical & ML Modeling,Required,1,1,4,25.0,3.0,75.0
+Accenture,Market/competitive analysis,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Accenture,Master's in Data Science,Credentials & Background,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,Python,Python & Scripting,Required,1,2,4,25.0,1.0,25.0
+Accenture,R,Additional Stat Languages,Required,1,3,4,25.0,,
+Accenture,ROI/value tracking,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Accenture,Statistics,Statistical & ML Modeling,Preferred,1,1,4,25.0,3.0,75.0
+Accenture,Structured/hypothesis-led problem solving,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Accenture,Translating strategy into implementation plans/operating models,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Accenture,autonomous systems,AI/GenAI Strategy & Application,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,"big data (Hadoop, Spark)",Data Engineering & Pipelines,Required,1,1,4,25.0,1.0,25.0
+Accenture,client relationship management,Executive & Client Communication,Required,1,1,4,25.0,3.0,75.0
+Accenture,client-ready executive materials,Executive & Client Communication,Required,1,1,4,25.0,3.0,75.0
+Accenture,concept testing/experimentation,Marketing Analytics Stack,Required,1,1,4,25.0,3.0,75.0
+Accenture,cost reduction & efficiency execution,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Accenture,customer research/experimentation exposure,Marketing Analytics Stack,Preferred,1,1,4,25.0,3.0,75.0
+Accenture,"data visualization (Tableau, Power BI)",BI & Visualization Tools,Required,1,1,4,25.0,3.0,75.0
+Accenture,data-to-storytelling synthesis,Executive & Client Communication,Required,1,1,4,25.0,3.0,75.0
+Accenture,financial modeling,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Accenture,hands-on GenAI/ML/AI-platform experience,AI/GenAI Strategy & Application,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,investment analysis,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Accenture,market sizing & financial scenario modeling,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Accenture,or SQL,SQL,Required,1,1,4,25.0,1.0,25.0
+Accenture,or related field,Credentials & Background,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,program management/communication skills,Business Case & Strategy Framing,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,reinforcement learning,Statistical & ML Modeling,Preferred,1,1,4,25.0,3.0,75.0
+Accenture,stakeholder management,Executive & Client Communication,Required,1,1,4,25.0,3.0,75.0
+Accenture,understanding of AI/GenAI applications,AI/GenAI Strategy & Application,Preferred,1,1,4,25.0,4.0,100.0
+Accenture,workstream leadership end-to-end,Business Case & Strategy Framing,Required,1,1,4,25.0,4.0,100.0
+Amazon,"AWS (EC2, DynamoDB, S3, Redshift)",Cloud & DevOps,Preferred,1,1,1,100.0,1.0,100.0
+Amazon,ETL,Data Engineering & Pipelines,Required,1,1,1,100.0,1.0,100.0
+Amazon,Matlab,Additional Stat Languages,Required,1,1,1,100.0,1.0,100.0
+Amazon,NoSQL,Data Engineering & Pipelines,Required,1,1,1,100.0,1.0,100.0
+Amazon,Oracle,Data Engineering & Pipelines,Required,1,1,1,100.0,1.0,100.0
+Amazon,Python scripting,Python & Scripting,Required,1,1,1,100.0,1.0,100.0
+Amazon,R,Additional Stat Languages,Required,1,3,1,100.0,1.0,100.0
+Amazon,Redshift,Data Engineering & Pipelines,Required,1,1,1,100.0,1.0,100.0
+Amazon,SAS,Additional Stat Languages,Required,1,1,1,100.0,1.0,100.0
+Amazon,SQL,SQL,Required,1,4,1,100.0,1.0,100.0
+Amazon,Tableau/QuickSight,BI & Visualization Tools,Required,1,1,1,100.0,1.0,100.0
+Amazon,data modeling & warehousing,Data Engineering & Pipelines,Required,1,1,1,100.0,1.0,100.0
+Amazon,large-scale complex dataset/data mining experience,Statistical & ML Modeling,Preferred,1,1,1,100.0,1.0,100.0
+Deloitte,Adobe Analytics,Marketing Analytics Stack,Required,2,2,4,50.0,3.0,75.0
+Deloitte,Ads Data Hub,Marketing Analytics Stack,Required,2,1,4,50.0,3.0,75.0
+Deloitte,DV360,Marketing Analytics Stack,Required,2,1,4,50.0,3.0,75.0
+Deloitte,Data Studio,BI & Visualization Tools,Required,2,1,4,50.0,2.0,50.0
+Deloitte,Datorama,Marketing Analytics Stack,Required,2,1,4,50.0,3.0,75.0
+Deloitte,Excel,Excel,Required,2,1,4,50.0,2.0,50.0
+Deloitte,Google Analytics,Marketing Analytics Stack,Required,2,2,4,50.0,3.0,75.0
+Deloitte,SQL,SQL,Required,2,4,4,50.0,2.0,50.0
+Deloitte,Salesforce/SFMC,Marketing Analytics Stack,Required,2,1,4,50.0,3.0,75.0
+Deloitte,Tableau,BI & Visualization Tools,Required,2,2,4,50.0,2.0,50.0
+Deloitte,measurement & testing plan design,Marketing Analytics Stack,Preferred,2,1,4,50.0,3.0,75.0
+Deloitte,A/B testing/experimentation,A/B Testing & Experimentation,Required,1,1,4,25.0,1.0,25.0
+Deloitte,API/microservice integration,Cloud & DevOps,Preferred,1,1,4,25.0,1.0,25.0
+Deloitte,Adobe Customer Journey Analytics,Marketing Analytics Stack,Required,1,1,4,25.0,3.0,75.0
+Deloitte,Airflow/dbt,Data Engineering & Pipelines,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,Analytics/modeling/tagging strategy definition,Marketing Analytics Stack,Preferred,1,1,4,25.0,3.0,75.0
+Deloitte,Azure AI Foundry,LLM/RAG Engineering,Required,1,1,4,25.0,2.0,50.0
+Deloitte,Cloud (AWS/Azure/GCP),Cloud & DevOps,Preferred,1,1,4,25.0,1.0,25.0
+Deloitte,ETL on large marketing datasets,Data Engineering & Pipelines,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,Exploratory data analysis,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,GenAI/LLM solution building,LLM/RAG Engineering,Required,1,1,4,25.0,2.0,50.0
+Deloitte,LLMs,LLM/RAG Engineering,Required,1,2,4,25.0,2.0,50.0
+Deloitte,Looker,BI & Visualization Tools,Required,1,1,4,25.0,2.0,50.0
+Deloitte,Looker (dashboards/visualization),BI & Visualization Tools,Required,1,1,4,25.0,2.0,50.0
+Deloitte,"MLOps/LLMOps (evaluation, monitoring, prompt management)",LLM/RAG Engineering,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,Marketing mix modeling / attribution,Marketing Analytics Stack,Preferred,1,1,4,25.0,3.0,75.0
+Deloitte,Spark,Data Engineering & Pipelines,Preferred,1,2,4,25.0,2.0,50.0
+Deloitte,adtech/martech data experience,Marketing Analytics Stack,Preferred,1,1,4,25.0,3.0,75.0
+Deloitte,audience segmentation,Marketing Analytics Stack,Preferred,1,1,4,25.0,3.0,75.0
+Deloitte,boosted trees,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,classification,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,clustering,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,data modeling,Data Engineering & Pipelines,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,deep learning or reinforcement learning,Statistical & ML Modeling,Preferred,1,1,4,25.0,1.0,25.0
+Deloitte,digital analytics platforms & tag management,Marketing Analytics Stack,Preferred,1,1,4,25.0,3.0,75.0
+Deloitte,exec/client-facing presentation,Executive & Client Communication,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,experimental design,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,feature transformation,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,leading project workstreams,Business Case & Strategy Framing,Required,1,1,4,25.0,2.0,50.0
+Deloitte,logistic regression,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,managing project timelines across workstreams,Business Case & Strategy Framing,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,onshore/offshore team experience,Credentials & Background,Preferred,1,1,4,25.0,1.0,25.0
+Deloitte,predictive modeling,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,presenting to non-technical audiences,Executive & Client Communication,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,"production code (testing, CI/CD, logging, versioning)",Cloud & DevOps,Required,1,1,4,25.0,1.0,25.0
+Deloitte,sampling,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+Deloitte,streaming,Data Engineering & Pipelines,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,strong executive-facing storytelling,Executive & Client Communication,Preferred,1,1,4,25.0,2.0,50.0
+Deloitte,tagging strategy,Marketing Analytics Stack,Preferred,1,1,4,25.0,3.0,75.0
+Deloitte,unsupervised models,Statistical & ML Modeling,Required,1,1,4,25.0,1.0,25.0
+IBM,Python,Python & Scripting,Required,2,2,5,40.0,4.0,80.0
+IBM,SQL,SQL,Required,2,4,5,40.0,4.0,80.0
+IBM,"AI coding tools (Claude Code, Copilot, Cursor)",AI/GenAI Strategy & Application,Preferred,1,1,5,20.0,4.0,80.0
+IBM,AI-native workflow redesign,AI/GenAI Strategy & Application,Required,1,1,5,20.0,4.0,80.0
+IBM,AI/automation tool familiarity,AI/GenAI Strategy & Application,Preferred,1,1,5,20.0,4.0,80.0
+IBM,AI/automation/workflow modernization exposure,AI/GenAI Strategy & Application,Preferred,1,1,5,20.0,4.0,80.0
+IBM,APIs,Cloud & DevOps,Preferred,1,1,5,20.0,2.0,40.0
+IBM,"BI/visualization tools (Superset, Cognos Analytics, Tableau)",BI & Visualization Tools,Required,1,1,5,20.0,2.0,40.0
+IBM,CI/CD,Cloud & DevOps,Preferred,1,1,5,20.0,2.0,40.0
+IBM,"Data visualization/analytics tools (Envizi, Power BI, Tableau, Python, SQL)",BI & Visualization Tools,Preferred,1,1,5,20.0,2.0,40.0
+IBM,ETL/ELT pipelines,Data Engineering & Pipelines,Required,1,1,5,20.0,3.0,60.0
+IBM,GHG accounting methodologies/data collection & validation,Sustainability & ESG,Required,1,1,5,20.0,1.0,20.0
+IBM,GenAI and agentic AI workflows,AI/GenAI Strategy & Application,Required,1,1,5,20.0,4.0,80.0
+IBM,Git,Cloud & DevOps,Preferred,1,1,5,20.0,2.0,40.0
+IBM,Git/CI/CD,Cloud & DevOps,Required,1,1,5,20.0,2.0,40.0
+IBM,"LLM app building (RAG, vector stores, embeddings, LangChain/LlamaIndex)",LLM/RAG Engineering,Required,1,1,5,20.0,3.0,60.0
+IBM,LLM evaluation/observability/tracing,LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+IBM,LLMs,LLM/RAG Engineering,Preferred,1,2,5,20.0,3.0,60.0
+IBM,Lakehouse architectures (IBM watsonx.data),LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+IBM,ML,Statistical & ML Modeling,Required,1,1,5,20.0,4.0,80.0
+IBM,ML fundamentals,Statistical & ML Modeling,Required,1,1,5,20.0,4.0,80.0
+IBM,"ML workflow exposure (feature engineering, model evaluation, deployment)",Statistical & ML Modeling,Preferred,1,1,5,20.0,4.0,80.0
+IBM,MLOps/LLMOps,LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+IBM,Microsoft Excel,Excel,Required,1,1,5,20.0,1.0,20.0
+IBM,"Python (pandas, NumPy, SciPy)",Python & Scripting,Required,1,1,5,20.0,4.0,80.0
+IBM,R,Additional Stat Languages,Required,1,3,5,20.0,1.0,20.0
+IBM,RAG,LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+IBM,"SQL (PostgreSQL, Presto/Trino)",SQL,Required,1,1,5,20.0,4.0,80.0
+IBM,Scala/JavaScript,Additional Stat Languages,Preferred,1,1,5,20.0,1.0,20.0
+IBM,Snowflake (or Redshift/BigQuery/Databricks),Data Engineering & Pipelines,Required,1,1,5,20.0,3.0,60.0
+IBM,"Snowflake Cortex (LLM functions, Search, Analyst, Agents)",LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+IBM,Spark,Data Engineering & Pipelines,Required,1,2,5,20.0,3.0,60.0
+IBM,Strategy/transformation/operations background,Business Case & Strategy Framing,Preferred,1,1,5,20.0,2.0,40.0
+IBM,agentic/multi-step systems (MCP integrations),LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+IBM,"analytical data modeling (dimensional models, semantic layers)",Data Engineering & Pipelines,Required,1,1,5,20.0,3.0,60.0
+IBM,"cloud platforms (AWS, Azure, GCP)",Cloud & DevOps,Preferred,1,1,5,20.0,2.0,40.0
+IBM,cloud platforms (AWS/Azure/GCP),Cloud & DevOps,Required,1,1,5,20.0,2.0,40.0
+IBM,containers,Cloud & DevOps,Preferred,1,1,5,20.0,2.0,40.0
+IBM,"data governance (lineage, contracts, access controls)",Data Engineering & Pipelines,Preferred,1,1,5,20.0,3.0,60.0
+IBM,"data prep/cleansing (structured, semi-structured, unstructured)",Data Engineering & Pipelines,Required,1,1,5,20.0,3.0,60.0
+IBM,dbt,Data Engineering & Pipelines,Required,1,1,5,20.0,3.0,60.0
+IBM,embeddings,LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+IBM,enterprise operating model architecture,Business Case & Strategy Framing,Required,1,1,5,20.0,2.0,40.0
+IBM,finance/value creation/operating model design,Business Case & Strategy Framing,Preferred,1,1,5,20.0,2.0,40.0
+IBM,hypothesis testing/EDA,Statistical & ML Modeling,Required,1,1,5,20.0,4.0,80.0
+IBM,"industry exposure (healthcare, financial services, supply chain, retail/CPG)",Credentials & Background,Preferred,1,1,5,20.0,2.0,40.0
+IBM,"ingestion tools (Fivetran, Matillion, Openflow/NiFi)",Data Engineering & Pipelines,Preferred,1,1,5,20.0,3.0,60.0
+IBM,large dataset handling with data quality focus,Statistical & ML Modeling,Required,1,1,5,20.0,4.0,80.0
+IBM,market research/benchmarking experience,Business Case & Strategy Framing,Preferred,1,1,5,20.0,2.0,40.0
+IBM,metric standardization,Data Engineering & Pipelines,Required,1,1,5,20.0,3.0,60.0
+IBM,or Snowpark,Data Engineering & Pipelines,Required,1,1,5,20.0,3.0,60.0
+IBM,"orchestration frameworks (LangChain, LangGraph, LlamaIndex, Semantic Kernel, AutoGen, MCP)",LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+IBM,predictive/prescriptive modeling,Statistical & ML Modeling,Required,1,1,5,20.0,4.0,80.0
+IBM,production analytical pipelines (Airflow or similar),Data Engineering & Pipelines,Required,1,1,5,20.0,3.0,60.0
+IBM,quantum computing interest,Emerging Tech (Quantum),Preferred,1,1,5,20.0,1.0,20.0
+IBM,statistical methods,Statistical & ML Modeling,Required,1,1,5,20.0,4.0,80.0
+IBM,streaming/real-time analytics (Kafka),Data Engineering & Pipelines,Preferred,1,1,5,20.0,3.0,60.0
+IBM,"sustainability disclosure frameworks (GRI, CDP)",Sustainability & ESG,Preferred,1,1,5,20.0,1.0,20.0
+IBM,technology roadmap & experimentation strategy,Business Case & Strategy Framing,Required,1,1,5,20.0,2.0,40.0
+IBM,technology/product/analytics background,Credentials & Background,Preferred,1,1,5,20.0,2.0,40.0
+IBM,value creation analysis/benchmarking,Business Case & Strategy Framing,Required,1,1,5,20.0,2.0,40.0
+IBM,vector databases,LLM/RAG Engineering,Preferred,1,1,5,20.0,3.0,60.0
+Jump Trading Group,Deep interest in trading/global markets,Domain Interest: Trading/Finance,Preferred,1,1,1,100.0,1.0,100.0
+Jump Trading Group,ETL pipelining/database concepts,Data Engineering & Pipelines,Required,1,1,1,100.0,1.0,100.0
+Jump Trading Group,Linux,Python & Scripting,Required,1,1,1,100.0,1.0,100.0
+Jump Trading Group,Python (or similar) for automation,Python & Scripting,Required,1,1,1,100.0,1.0,100.0
+Jump Trading Group,SQL,SQL,Required,1,4,1,100.0,1.0,100.0
+Jump Trading Group,comfort with ambiguity,Credentials & Background,Preferred,1,1,1,100.0,1.0,100.0
+Jump Trading Group,cross-team communication (technical <-> non-technical),Executive & Client Communication,Preferred,1,1,1,100.0,1.0,100.0
+ShopMy,A/B testing,A/B Testing & Experimentation,Required,1,1,1,100.0,1.0,100.0
+ShopMy,AI-accelerated analysis/workflows,AI/GenAI Strategy & Application,Preferred,1,1,1,100.0,1.0,100.0
+ShopMy,B2B SaaS,Credentials & Background,Preferred,1,1,1,100.0,1.0,100.0
+ShopMy,BI tools & data visualization,BI & Visualization Tools,Required,1,1,1,100.0,1.0,100.0
+ShopMy,Expert SQL,SQL,Required,1,1,1,100.0,1.0,100.0
+ShopMy,Python/JavaScript/R or notebooks,Python & Scripting,Required,1,1,1,100.0,1.0,100.0
+ShopMy,agencies,Credentials & Background,Preferred,1,1,1,100.0,1.0,100.0
+ShopMy,attribution,Marketing Analytics Stack,Required,1,1,1,100.0,1.0,100.0
+ShopMy,experience across e-commerce,Credentials & Background,Preferred,1,1,1,100.0,1.0,100.0
+ShopMy,incrementality,Marketing Analytics Stack,Required,1,1,1,100.0,1.0,100.0
+ShopMy,marketplaces,Credentials & Background,Preferred,1,1,1,100.0,1.0,100.0
+ShopMy,martech,Marketing Analytics Stack,Preferred,1,1,1,100.0,1.0,100.0
+ShopMy,or social platforms,Credentials & Background,Preferred,1,1,1,100.0,1.0,100.0
+ShopMy,"product analytics tools (Amplitude, Heap, Mixpanel)",Marketing Analytics Stack,Required,1,1,1,100.0,1.0,100.0
