@@ -2,6 +2,7 @@
 *A data cleaning and normalization project that started as prep work and turned into something worth sharing.*
 
 <img width="800" height="550" alt="Screen Recording 2026-09-19 at 12 17 42 PM" src="https://github.com/user-attachments/assets/41b98bfa-a6d4-44b3-b997-a1e7342bd793" />
+https://public.tableau.com/shared/MMS89TBCS?:display_count=n&:origin=viz_share_link 
 
 
 ## The origin story
