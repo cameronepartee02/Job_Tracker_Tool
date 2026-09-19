@@ -1,5 +1,7 @@
 # Job Posting Skill-Gap Analysis
 
+<img width="400" height="275" alt="Screen Recording 2026-09-19 at 12 17 42 PM" src="https://github.com/user-attachments/assets/41b98bfa-a6d4-44b3-b997-a1e7342bd793" />
+
 *A data cleaning and normalization project that started as prep work and turned into something worth sharing.*
 
 ## The origin story
